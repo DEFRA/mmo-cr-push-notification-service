@@ -39,7 +39,7 @@ services:
 
   ################################################################################
 
-  cdp-node-backend-template:
+  mmo-cr-push-notification-service:
     build:
       context: .
       target: development
